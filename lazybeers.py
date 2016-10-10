@@ -19,6 +19,8 @@ while x != 0:
 
 	#Prints the second line
 	print(xs + " Bottles of beer")
+	
+	#Takes 1 away from x 
 	y = x-1
 
 	#Turns y into a string so it can be added to other strings without type errors
