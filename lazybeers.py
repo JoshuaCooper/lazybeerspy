@@ -37,3 +37,4 @@ while x != 0:
 
 	#sleeps so that user has time to read the output
 	time.sleep(.5)
+        #This is the end of the program! See you guys/gals later XD
